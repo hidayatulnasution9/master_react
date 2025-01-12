@@ -1,3 +1,9 @@
+              RESULT
+![batuni_1](https://github.com/user-attachments/assets/67db87bd-359b-4612-942f-1c480351b665)
+
+            
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
